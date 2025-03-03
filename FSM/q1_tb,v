@@ -13,7 +13,7 @@ module design_tb;
         .y(y)
     );
 
-    // Clock generation (50MHz -> 20ns period)
+
     always #10 clk = ~clk;
 
     initial begin
