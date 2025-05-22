@@ -16,7 +16,7 @@ class test;
       
                          else 
                            
-                           num[i] == num[i-1] + num[i-2]+ num[i-3] ;
+                           num[i] == num[i-1] + num[i-2];
                         }
     
     
